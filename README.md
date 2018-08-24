@@ -1,5 +1,4 @@
 # Pix_Craft
-this project is in progress but majorly only graphics would vary the coding part is tested
+It is a project for photography workshop registration form it uses MySQL as Backend and Java(NetBeans IDE) as Frontend.
 
-
-Platform: Netbeans IDE, MySQL command client
+this project is in progress but majorly only graphics would vary the coding part is tested.
